@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>RE_ID</title>
+</head>
+{# background="earth.jpg"#}
+<body>
+
+    <h1>Source file input</h1>
+    <br>
+    <form action="/re_id/" method="GET">
+        {% csrf_token %} source_img <input type="text" name="img_dir">
+        <input type="submit" value="Submit the dir">
+    <br>
+        <table border="1">
+            <thead>
+                <th>Rank</th>
+                <th>Dir</th>
+            </thead>
+            <br>
+            <tbody>
+                {% for line in data %}
+                <tr>
+                    <td>{{line.index}}</td>
+                    <td align="center">{{line.dir}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </form>
+
+    </form>
+</body>
+
+</html>

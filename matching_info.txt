@@ -1,0 +1,10 @@
+D:\Lab\dataset\Market-1501-v15.09.15\bounding_box_test\0021_c6s1_002376_01.jpg
+D:\Lab\dataset\Market-1501-v15.09.15\bounding_box_test\0021_c6s1_002401_02.jpg
+D:\Lab\dataset\Market-1501-v15.09.15\bounding_box_test\0021_c6s1_002451_02.jpg
+D:\Lab\dataset\Market-1501-v15.09.15\bounding_box_test\0155_c6s1_051276_01.jpg
+D:\Lab\dataset\Market-1501-v15.09.15\bounding_box_test\0021_c5s1_002276_02.jpg
+D:\Lab\dataset\Market-1501-v15.09.15\bounding_box_test\0155_c6s1_051301_01.jpg
+D:\Lab\dataset\Market-1501-v15.09.15\bounding_box_test\0569_c4s3_027679_01.jpg
+D:\Lab\dataset\Market-1501-v15.09.15\bounding_box_test\0155_c1s1_051576_03.jpg
+D:\Lab\dataset\Market-1501-v15.09.15\bounding_box_test\0021_c1s1_002301_04.jpg
+D:\Lab\dataset\Market-1501-v15.09.15\bounding_box_test\0155_c6s1_051251_01.jpg
